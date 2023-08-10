@@ -2,12 +2,14 @@
 
 WITH distinct_salary AS
 (
-SELECT Salary, ROW_NUMBER() OVER(ORDER BY Salary DESC) AS nomer
-FROM Employee
-GROUP BY Salary 
+        SELECT Salary, 
+                ROW_NUMBER() OVER(ORDER BY Salary DESC) AS ranking_salary
+        FROM Employee
+        GROUP BY Salary 
 )
-
-SELECT (SELECT Salary AS SecondHighestSalary
+SELECT
+(
+SELECT Salary AS SecondHighestSalary
 FROM distinct_salary
-WHERE nomer = 2) AS SecondHighestSalary
-
+WHERE ranking_salary = 2
+) AS SecondHighestSalary;
