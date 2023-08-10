@@ -1,18 +1,13 @@
 # Write your MySQL query statement below
 
-WITH cte AS
+WITH distinct_salary AS
 (
-        SELECT e.id,
-                e.salary,
-                DENSE_RANK() OVER(ORDER BY salary DESC) AS num_salary
-        FROM Employee AS e
-),
-rank2 AS
-(
-        SELECT 2 AS num_base
+SELECT Salary, ROW_NUMBER() OVER(ORDER BY Salary DESC) AS nomer
+FROM Employee
+GROUP BY Salary 
 )
-SELECT salary AS SecondHighestSalary
-FROM rank2
-LEFT JOIN cte
-ON rank2.num_base = cte.num_salary
-LIMIT 1;
+
+SELECT (SELECT Salary AS SecondHighestSalary
+FROM distinct_salary
+WHERE nomer = 2) AS SecondHighestSalary
+
