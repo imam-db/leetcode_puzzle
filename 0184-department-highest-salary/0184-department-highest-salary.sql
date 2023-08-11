@@ -1,17 +1,17 @@
 # Write your MySQL query statement below
 
-WITH max_salary AS
+WITH cte AS
 (
-    SELECT DepartmentId, MAX(Salary) AS Salary
+    SELECT d.name AS Department,
+        e.name AS Employee,
+        e.salary AS Salary,
+        RANK() OVER(PARTITION BY e.departmentId ORDER BY e.salary DESC) AS rank_salary
     FROM Employee AS e
-    GROUP BY DepartmentId
+    INNER JOIN Department AS d
+    ON e.departmentId = d.id
 )
-SELECT d.Name AS Department, 
-    e.Name AS Employee, 
-    ms.Salary
-FROM max_salary AS ms
-INNER JOIN Employee AS e
-    ON ms.DepartmentId = e.DepartmentId
-    AND ms.Salary = e.Salary
-INNER JOIN Department AS d
-    ON d.Id = ms.DepartmentId
+SELECT Department,
+    Employee,
+    Salary
+FROM cte
+WHERE rank_salary = 1
