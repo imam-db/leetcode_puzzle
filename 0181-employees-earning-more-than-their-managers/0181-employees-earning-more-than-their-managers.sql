@@ -7,7 +7,7 @@ SELECT e1.Id,
         e1.Salary, 
         e2.Salary AS salary_manager
 FROM Employee AS e1
-LEFT JOIN Employee AS e2
+INNER JOIN Employee AS e2
 ON e1.ManagerId = e2.Id
 )
 SELECT cte.Name AS Employee
