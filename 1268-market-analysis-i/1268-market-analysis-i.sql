@@ -6,5 +6,5 @@ SELECT u.user_id AS buyer_id,
 FROM Users AS u
 LEFT JOIN Orders AS o
 ON u.user_id = o.buyer_id
-AND DATE_FORMAT(o.order_date,'%Y') = '2019'
+AND o.order_date BETWEEN  '2019-01-01' AND '2019-12-31'
 GROUP BY u.user_id
