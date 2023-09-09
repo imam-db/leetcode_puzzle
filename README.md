@@ -19,6 +19,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 [511. Game Play Analysis I](./database/0511-game-play-analysis-i/)
 
+[577. Employee Bonus](./database/0577-employee-bonus/)
+
+[584. FInd Customer Referee](./database/0584-find-customer-referee/)
+
+[586. Customer Placing the Largest Number of Orders](./database/0586-customer-placing-the-largest-number-of-orders/)
+
+[595. Big Countries](./database/0595-big-countries/)
+
+[596. CLasses More Than 5 Students](./database/0596-classes-more-than-5-students/)
+
+
+
 ### Medium
 
 [176. Second Higjest Salary](./database/0176-second-highest-salary/)
@@ -30,6 +42,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 [180. Consecutive Numebrs](./database/0180-consecutive-numbers/)
 
 [184. Department Highest Salary](./database/0184-department-highest-salary/)
+
+[570. Managers with at Least 5 Direct Reports](./database/0570-managers-with-at-least-5-direct-reports/)
+
+[585. Investments in 2016](./database/0585-investments-in-2016/)
 
 ### Hard
 
