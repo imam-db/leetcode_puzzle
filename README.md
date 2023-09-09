@@ -1,9 +1,9 @@
-# leetcode_puzzle
+# LeetCode Puzzle Collection
 Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 
-## List All Puzzle
+## Explore the Puzzles
 
-### Easy
+### Easy Challenges
 
 - [175. Combine Two Tables](./database/0175-combine-two-tables/)
 - [181. Emplpyees Earning More Than Their Manager](./database/0181-employees-earning-more-than-their-managers/)
@@ -19,7 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 - [596. CLasses More Than 5 Students](./database/0596-classes-more-than-5-students/)
 
 
-### Medium
+### Medium Challenges
 
 - [176. Second Higjest Salary](./database/0176-second-highest-salary/)
 - [177. Nth Highest Salary](./database/0177-nth-highest-salary/)
@@ -29,7 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 - [570. Managers with at Least 5 Direct Reports](./database/0570-managers-with-at-least-5-direct-reports/)
 - [585. Investments in 2016](./database/0585-investments-in-2016/)
 
-### Hard
+### Hard Challenges
 
 - [185. Department Top Three Salaries](./database/0185-department-top-three-salaries/)
 - [262. Trips adn Users](./database/0262-trips-and-users/)
