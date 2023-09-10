@@ -17,6 +17,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 - [586. Customer Placing the Largest Number of Orders](./database/0586-customer-placing-the-largest-number-of-orders/)
 - [595. Big Countries](./database/0595-big-countries/)
 - [596. CLasses More Than 5 Students](./database/0596-classes-more-than-5-students/)
+- [607. Sales Person](./database/0607-sales-person/)
+- [610. Triangle Judgement](./database/0610-triangle-judgement/)
+- [619. Biggest Single Number](./database/0619-biggest-single-number/)
+- [620. Not Boring Movies](./database/0620-not-boring-movies/)
+- [627. Swap Salary](./database/0627-swap-salary/)
+- [1050. Actors and Directors Who Cooperated at Least Three Times](./database/1050-actors-and-directors-who-cooperated-at-least-three-times/)
+- [1068. Product Sales Analysis I](./database/1068-product-sales-analysis-i/)
+
+
 
 
 ### Medium Challenges
@@ -28,8 +37,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 - [184. Department Highest Salary](./database/0184-department-highest-salary/)
 - [570. Managers with at Least 5 Direct Reports](./database/0570-managers-with-at-least-5-direct-reports/)
 - [585. Investments in 2016](./database/0585-investments-in-2016/)
+- [602. Friend Requests II: Who Has the Most Friends](./database/0602-friend-requests-ii-who-has-the-most-friends/)
+- [608. Tree Node](./database/0608-tree-node/)
+- [626. Exchange Seats](./database/0626-exchange-seats/)
+- [1045. Customers Who Bought All Products](./database/1045-customers-who-bought-all-products/)
 
 ### Hard Challenges
 
 - [185. Department Top Three Salaries](./database/0185-department-top-three-salaries/)
 - [262. Trips adn Users](./database/0262-trips-and-users/)
+- [601. Human Traffic at Stadium](./database/0601-human-traffic-of-stadium/)
