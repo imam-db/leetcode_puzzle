@@ -24,7 +24,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 - [627. Swap Salary](./database/0627-swap-salary/)
 - [1050. Actors and Directors Who Cooperated at Least Three Times](./database/1050-actors-and-directors-who-cooperated-at-least-three-times/)
 - [1068. Product Sales Analysis I](./database/1068-product-sales-analysis-i/)
-
+- [1070. Product Sales Analysis III](./database/1070-product-sales-analysis-iii/)
+- [1075. Project Employees I](./database/1075-project-employees-i/)
+- [1084. Sales Analysis III](./database/1084-sales-analysis-iii/)
+- [1141. User Activity for the Past 30 Days I](./database/1141-user-activity-for-the-past-30-days-i/)
+- [1148. Article Views I](./database/1148-article-views-i/)
+- [1173. Immediate Food Delivery I](./database/1173-immediate-food-delivery-i/)
+- [1179. Reformat Department Table](./database/1179-reformat-department-table/)
+- [1211. Queries Quality and Percentage](./database/1211-queries-quality-and-percentage/)
+- [1251. Average Selling Price](./database/1251-average-selling-price/)
+- [1280. Students and Examinations](./database/1280-students-and-examinations/)
+- [1327. List the Products Ordered in a Period](./database/1327-list-the-products-ordered-in-a-period/)
 
 
 
@@ -35,12 +45,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 - [178. Rank Scores](./database/0178-rank-scores/)
 - [180. Consecutive Numebrs](./database/0180-consecutive-numbers/)
 - [184. Department Highest Salary](./database/0184-department-highest-salary/)
+- [550. Game Play Analysis IV](./database/0550-game-play-analysis-iv/)
 - [570. Managers with at Least 5 Direct Reports](./database/0570-managers-with-at-least-5-direct-reports/)
 - [585. Investments in 2016](./database/0585-investments-in-2016/)
 - [602. Friend Requests II: Who Has the Most Friends](./database/0602-friend-requests-ii-who-has-the-most-friends/)
 - [608. Tree Node](./database/0608-tree-node/)
 - [626. Exchange Seats](./database/0626-exchange-seats/)
 - [1045. Customers Who Bought All Products](./database/1045-customers-who-bought-all-products/)
+- [1158. Market Analysis I](./database/1158-market-analysis-i/)
+- [1164. Product Price at a Given Date](./database/1164-product-price-at-a-given-date/)
+- [1174. Immediate Food Delivery II](./database/1174-immediate-food-delivery-ii/)
+- [1193. Monthly Transactions I](./database/1193-monthly-transactions-i/)
+- [1204. Last Person to Fit in the Bus](./database/1204-last-person-to-fit-in-the-bus/)
+- [1321. Restaurant Growth](./database/1321-restaurant-growth/)
+- [1341. Movie Rating](./database/1341-movie-rating/)
+
 
 ### Hard Challenges
 
