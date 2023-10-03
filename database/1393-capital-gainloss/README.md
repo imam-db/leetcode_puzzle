@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/capital-gainloss">1523. Capital Gain/Loss</a></h2><h3>Medium</h3><hr><p>Table: <code>Stocks</code></p>
+<h2><a href="https://leetcode.com/problems/capital-gainloss">1393. Capital Gain/Loss</a></h2><h3>Medium</h3><hr><p>Table: <code>Stocks</code></p>
 
 <pre>
 +---------------+---------+

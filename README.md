@@ -35,6 +35,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 - [1251. Average Selling Price](./database/1251-average-selling-price/)
 - [1280. Students and Examinations](./database/1280-students-and-examinations/)
 - [1327. List the Products Ordered in a Period](./database/1327-list-the-products-ordered-in-a-period/)
+- [1378. Replace Employee ID with the Unique Identifier](./database/1378-replace-employee-id-with-the-unique-identifier/)
+- [1407. Top Travellers](./database/1407-top-travellers/)
+- [1484. Group Sold Products by the Date](./database/1484-group-sold-products-by-the-date/)
+- [1517. Find Users with Valid Emails](./database/1517-find-users-with-valid-e-mails/)
+- [1527. Patients with a Condition](./database/1527-patients-with-a-condition/)
 
 
 
@@ -59,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 - [1204. Last Person to Fit in the Bus](./database/1204-last-person-to-fit-in-the-bus/)
 - [1321. Restaurant Growth](./database/1321-restaurant-growth/)
 - [1341. Movie Rating](./database/1341-movie-rating/)
+- [1393. Capital Gain/Loss](./database/1393-capital-gainloss/)
 
 
 ### Hard Challenges
