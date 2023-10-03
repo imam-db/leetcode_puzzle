@@ -40,6 +40,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 - [1484. Group Sold Products by the Date](./database/1484-group-sold-products-by-the-date/)
 - [1517. Find Users with Valid Emails](./database/1517-find-users-with-valid-e-mails/)
 - [1527. Patients with a Condition](./database/1527-patients-with-a-condition/)
+- [1581. Customer Who Visited but Did Not Make Any Transactions](./database/1581-customer-who-visited-but-did-not-make-any-transactions/)
+- [1587. Bank Account Summary II](./database/1587-bank-account-summary-ii/)
+- [1633. Percentage of Users Attented a Contest](./database/1633-percentage-of-users-attended-a-contest/)
+- [1661. Average Time of Process per Machine](./database/1661-average-time-of-process-per-machine/)
+- [1667. Fix Names in a Table](./database/1667-fix-names-in-a-table/)
+- [1683. Invalid Tweets](./database/1683-invalid-tweets/)
 
 
 
