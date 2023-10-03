@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-total-time-spent-by-each-employee">1892. Find Total Time Spent by Each Employee</a></h2><h3>Easy</h3><hr><p>Table: <code>Employees</code></p>
+<h2><a href="https://leetcode.com/problems/find-total-time-spent-by-each-employee">1741. Find Total Time Spent by Each Employee</a></h2><h3>Easy</h3><hr><p>Table: <code>Employees</code></p>
 
 <pre>
 +-------------+------+
