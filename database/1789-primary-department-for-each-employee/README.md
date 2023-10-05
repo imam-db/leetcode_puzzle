@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/primary-department-for-each-employee">1942. Primary Department for Each Employee</a></h2><h3>Easy</h3><hr><p>Table: <code>Employee</code></p>
+<h2><a href="https://leetcode.com/problems/primary-department-for-each-employee">1789. Primary Department for Each Employee</a></h2><h3>Easy</h3><hr><p>Table: <code>Employee</code></p>
 
 <pre>
 +---------------+---------+

@@ -51,7 +51,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 - [1731. The Number of Employees Which Report to Each Employee](./database/1731-the-number-of-employees-which-report-to-each-employee/)
 - [1741. Find Total Time Spent by Each Employee](./database/1741-find-total-time-spent-by-each-employee/)
 - [1757. Recylable and Low Fat Products](./database/1757-recyclable-and-low-fat-products/)
-
+- [1789. Primary Department for Each Employee](./database/1789-primary-department-for-each-employee/)
+- [1795. Rearrange Products Table](./database/1795-rearrange-products-table/)
+- [1873. Calculate Special Bonus](./database/1873-calculate-special-bonus/)
+- [1890. The Latest Login in 2020](./database/1890-the-latest-login-in-2020/)
+- [1965. Employees with Missing Information](./database/1965-employees-with-missing-information/)
+- [1978. Employees Whose Manager Left the Company](./database/1978-employees-whose-manager-left-the-company/)
+- [2356. Number of Unique Subjects Taught by Each Teacher](./database/2356-number-of-unique-subjects-taught-by-each-teacher/)
 
 
 ### Medium Challenges
@@ -76,6 +82,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 - [1321. Restaurant Growth](./database/1321-restaurant-growth/)
 - [1341. Movie Rating](./database/1341-movie-rating/)
 - [1393. Capital Gain/Loss](./database/1393-capital-gainloss/)
+- [1907. Count Salary Categories](./database/1907-count-salary-categories/)
+- [1934. Confirmation Rate](./database/1934-confirmation-rate/)
 
 
 ### Hard Challenges

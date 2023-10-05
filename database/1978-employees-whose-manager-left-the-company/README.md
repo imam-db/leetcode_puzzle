@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/employees-whose-manager-left-the-company">2127. Employees Whose Manager Left the Company</a></h2><h3>Easy</h3><hr><p>Table: <code>Employees</code></p>
+<h2><a href="https://leetcode.com/problems/employees-whose-manager-left-the-company">1978. Employees Whose Manager Left the Company</a></h2><h3>Easy</h3><hr><p>Table: <code>Employees</code></p>
 
 <pre>
 +-------------+----------+
